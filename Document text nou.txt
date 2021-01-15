@@ -1,0 +1,6 @@
+Si fisierul .php? :)
+So, avand fisier php, nu poti intra direct cu double click pe un fisier .html pentru ca fisierul .php nu o sa fie interpretat de catre server
+pentru asta ai nevoie de un server si anume xampp(in cazul de fata)
+http://localhost:81/ProiectBD/first_page.html asta este link-ul corect
+
+Seara buna~ Multumesc mult
